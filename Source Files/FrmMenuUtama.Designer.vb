@@ -187,7 +187,6 @@ Partial Class FrmMenuUtama
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 17.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.White
-        Me.BackgroundImage = Global.SI_Minimarket_Josua.My.Resources.Resources.Yosemite
         Me.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch
         Me.ClientSize = New System.Drawing.Size(830, 338)
         Me.Controls.Add(Me.MenuStrip)
