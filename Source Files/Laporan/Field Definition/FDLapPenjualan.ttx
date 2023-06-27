@@ -1,0 +1,7 @@
+nofakturjual	String	20	
+tgljual	Date		
+nmkonsumen	String	50	
+nmbarang	String	50	
+hargajual	Long		
+jumlahjual	Short		
+subtotal	Long		

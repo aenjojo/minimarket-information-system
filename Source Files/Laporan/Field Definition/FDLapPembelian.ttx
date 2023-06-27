@@ -1,0 +1,7 @@
+nofakturbeli	String	20	
+tglbeli	Date		
+nmsupplier	String	50	
+nmbarang	String	50	
+hargabeli	Long		
+jumlahbeli	Short		
+subtotal	Long		
